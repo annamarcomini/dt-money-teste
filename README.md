@@ -12,6 +12,7 @@ O Dt Money foi desenvolvido para poder armazenar online o que você gastou e o q
 
 ## 🔖 Como executar em sua máquina
 - Baixe o código
+- Execute o comando Yarn
 - Execute o comando Yarn Start
 
 ![Captura de tela 2024-03-06 221534](https://github.com/annamarcomini/dt-money-teste/assets/116853315/610200c1-c4e3-4bb1-b389-465e729b3f3b)
